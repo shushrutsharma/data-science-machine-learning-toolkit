@@ -1,0 +1,6 @@
+
+comany name : JobzUnlimited
+(MoreJobs)
+requires : Qlik,Python,QlikSense,QlikView,R,Python,Pythonscript,QlikviewScript
+publised : Posted few days agoMore Info : https://www.timesjobs.com/job-detail/qlik-python-ai-tech-organization-mumbai-thane-2-to-5-yrs-jobid-2MsNaGO0pPFzpSvf__PLUS__uAgZw==&source=srp
+-----------------------------------

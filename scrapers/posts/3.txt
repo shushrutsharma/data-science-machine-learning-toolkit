@@ -1,0 +1,5 @@
+
+comany name : GeminiSolutions
+requires : python,mobile,svn,nosql,pythonscripting,git,api,sqldatabase
+publised : Posted few days agoMore Info : https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-solutions-gurgaon-4-to-7-yrs-jobid-eGMLzwOk2QlzpSvf__PLUS__uAgZw==&source=srp
+-----------------------------------
