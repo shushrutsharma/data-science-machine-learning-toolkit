@@ -6,4 +6,4 @@ All the essential resources and template code needed to understand major data sc
 ![](./images/framework.png "Framework")
 
 ## Process : 
-![](./images/Process.jpeg "Process")
+![](./images/process.jpeg "Process")
